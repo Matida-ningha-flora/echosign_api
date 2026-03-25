@@ -1,0 +1,19 @@
+# === Serveur API ===
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+websockets==12.0
+python-multipart==0.0.9
+
+# === IA & Modèle ===
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# === Traitement vidéo/image → numpy ===
+mediapipe==0.10.11
+opencv-python==4.9.0.80
+
+# === Utilitaires ===
+pydantic==2.7.0
+python-dotenv==1.0.1

@@ -1,4 +1,4 @@
-# EchoSign API — requirements.txt (Python 3.13)
+# EchoSign API — requirements.txt (Python 3.13.9)
 
 # ── Serveur API ─────────────────────────────────
 fastapi>=0.111.0
